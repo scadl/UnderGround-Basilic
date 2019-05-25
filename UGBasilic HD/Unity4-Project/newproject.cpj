@@ -1,0 +1,85 @@
+[Image]
+File name=C:\[Works]\[3D Modeling]\UnderGround Basilic\UnderGround Basilic HD\Disc.png
+Format=0
+Custom size=0
+Width=524
+Height=553
+Margin x1=0
+Margin y1=0
+Margin x2=0
+Margin y2=0
+Keep proportion=1
+[Video]
+File name=
+Format=0
+Custom size=0
+Width=100
+Height=100
+Rotate type=0
+Rotate direction=0
+Frames=40
+Frame rate=20
+Swf quality=95
+Gif error diff=1
+Avi flip=0
+Avi codec=0
+Avi quality=0
+[Project]
+Type=14
+Size x=1
+Size y=0.95
+Size z=0.06
+Custom size=0
+Custom size x=0.73
+Custom size y=1
+Custom size z=0.32
+[Model]
+Rotation x=-24
+Rotation y=36
+Rotation z=0
+Scale x=1
+Scale y=1
+Scale z=1
+Position x=0
+Position y=0
+Position z=-5
+Perspective=0.5
+Zoom=104
+Model rotation x=-0
+Model rotation y=0
+Model rotation z=0
+Model position x=0
+Model position y=-0
+Model position z=0
+[Design]
+Transparent background=1
+Background color=-1
+Object color=-4144960
+Front image=C:\[Works]\[3D Modeling]\UnderGround Basilic\UG_Basilik Img\Oxo1.PNG
+Top image=C:\Program Files (x86)\Insofta Cover Commander\Data\cdbox_top.png
+Left image=
+Right image=C:\Program Files (x86)\Insofta Cover Commander\Data\cc_left.png
+Back image=
+Bottom image=C:\Program Files (x86)\Insofta Cover Commander\Data\cdbox_bottom.png
+CD image=C:\Program Files (x86)\Insofta Cover Commander\Data\cd_realistic.png
+[Light]
+Global light=0.18
+Light 1 enabled=1
+Light 1 angle 1=149
+Light 1 angle 2=33
+Light 1 distance=11.8
+Light 2 enabled=1
+Light 2 angle 1=122
+Light 2 angle 2=52
+Light 2 distance=13.4
+[Shadow]
+Type=2
+Direction=270
+Length=67
+Intensity=0.4
+Opacity=0.6
+Blur=3.2
+[Reflection]
+Enabled=1
+Intensity=0.15
+Opacity=0.5
