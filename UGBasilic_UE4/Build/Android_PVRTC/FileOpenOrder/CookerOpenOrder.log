@@ -1,0 +1,341 @@
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Basilica1935_BuiltData.uasset" 0
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/MainMenu-GUI.uasset" 1
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/MenuGameMode.uasset" 2
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/WallsAll.uasset" 3
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/ActiveDoorBP_CChild.uasset" 4
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/ActiveDoorBP_LChild.uasset" 5
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/ActiveDoorBP_Child1.uasset" 6
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/ActiveDoorBP_RChild.uasset" 7
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/FlyingCharacter.uasset" 8
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/WalkingCharacter.uasset" 9
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 10
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBRBasic.uasset" 11
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/Wood__Floor.uasset" 12
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/Wood__Floor_normal.uasset" 13
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBWood.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 15
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 16
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 17
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 18
+"../../../Engine/Content/BasicShapes/Cube.uasset" 19
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/ActiveDoorBP.uasset" 20
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/Box_Brush_Blueprint.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 22
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/MF_FadeBasedOnViewAngle.uasset" 23
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/MF_SubUV_Detail.uasset" 24
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/T_fx_fire_fireball_subUV_01.uasset" 25
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/T_Inky_Smoke_Tile.uasset" 26
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/M_FX_Fire_Flamethrower_SubUV_01_Masked.uasset" 27
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/MF_CameraDistanceFade.uasset" 28
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/MF_Fire_CameraFade.uasset" 29
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/MF_FX_EmissiveModulate.uasset" 30
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/T_FireblastPacked_v2.uasset" 31
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/M_FX_Fireblast_SubUV_02.uasset" 32
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/PixelInWorldUnits.uasset" 33
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/WorldUnitsInPixel.uasset" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Particles/ParticleDOF.uasset" 35
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/MF_ParticleRandomSize.uasset" 36
+"../../../Engine/Content/Engine_MI_Shaders/Textures/Bokeh.uasset" 37
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/T_Spark_Soft.uasset" 38
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/T_SparkSingle.uasset" 39
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/M_Hotdog_Spark_VLerp_DOF_Rand_Master.uasset" 40
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/P_Temple_Fire_Small.uasset" 41
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/BP_Fires.uasset" 42
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/BP_Fires.uasset" 43
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/T_Smoke_D.uasset" 44
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/M_Godray.uasset" 45
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/EpicFireFX/SM_GodRay.uasset" 46
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/BP_Godray.uasset" 47
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/SudakCharacter.uasset" 48
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/PlayerGameMode.uasset" 49
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/SudakGameMode.uasset" 50
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/keyboard-key-icon.uasset" 51
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/ConstantOverlay.uasset" 52
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/SudakOverlay.uasset" 53
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/blender_logo-2.uasset" 54
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/Sketchup_logo.uasset" 55
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/Unreal-engine-4-logo-wide-sm.uasset" 56
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/LoadinScreen.uasset" 57
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/TitleSplash.uasset" 58
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/MISC-BounceCard.uasset" 59
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/WoodenCross.uasset" 60
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Splash/EdSplash.uasset" 61
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Splash/Splash.uasset" 62
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/3dsmax.uasset" 63
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/Spalsh_tp.uasset" 64
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-brightness_down.uasset" 65
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-brightness_up.uasset" 66
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-Building1935-1-caut.uasset" 67
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-door_exit.uasset" 68
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-flashlight_off.uasset" 69
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-flashlight_on.uasset" 70
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-gravity_off.uasset" 71
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Sprites/UI-gravity_on.uasset" 72
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 73
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 74
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 75
+"../../../Engine/Content/BasicShapes/Cone.uasset" 76
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 77
+"../../../Engine/Content/BasicShapes/Plane.uasset" 78
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 79
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 80
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 81
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 82
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 83
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 84
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 85
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 86
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 87
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 88
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 89
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 90
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 91
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 92
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 93
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 94
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 95
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 96
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 97
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 98
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 99
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 100
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 101
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 102
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 103
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 104
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 105
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 106
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 107
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 108
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 109
+"../../../Engine/Content/EditorResources/S_Note.uasset" 110
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 111
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 112
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 113
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 114
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 115
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 116
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 117
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 118
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 119
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 120
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 121
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 122
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 123
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 124
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 125
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 126
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 127
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 128
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 129
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 130
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 131
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 132
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 133
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 134
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 135
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 136
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 137
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 138
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 139
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 140
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 141
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 142
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 143
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 144
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 145
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 146
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 147
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 148
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 149
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 150
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 151
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 152
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 153
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 154
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 155
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 156
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 157
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 158
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 159
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 160
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 161
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 162
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 163
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 164
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 165
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 166
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 167
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 168
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 169
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 170
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 171
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 172
+"../../../Engine/Content/EngineResources/Black.uasset" 173
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 174
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 175
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 176
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 177
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 178
+"../../../Engine/Content/EngineSounds/Master.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 180
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 181
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 182
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 183
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 184
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 185
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 186
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 187
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 188
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 189
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 190
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 191
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 192
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 193
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 194
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 195
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 196
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 197
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 198
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 199
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 200
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 201
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 202
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 203
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 204
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 205
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 206
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 207
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 208
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 209
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 210
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 211
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 212
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 213
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 214
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 215
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 216
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 217
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 218
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 219
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 220
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 221
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 222
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 223
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 224
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 225
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 226
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 227
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 228
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 229
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 230
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 231
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 232
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 233
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 234
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 235
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 236
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 237
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 238
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 239
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 240
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 241
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 242
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 243
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 244
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 245
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 249
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 250
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 251
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 252
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 253
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 254
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 255
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 256
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 257
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 258
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 259
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 260
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 261
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 262
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 263
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 264
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 265
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 266
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 267
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 268
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 269
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 270
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 271
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 272
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 273
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 274
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/BasilicaUG_BuiltData.uasset" 275
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/Groundcover_Sand_Smooth.uasset" 276
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/Groundcover_Sand_Smooth-TX_NRM.uasset" 277
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/Ground.uasset" 278
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_2.uasset" 279
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_2_normal.uasset" 280
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBMAsonry1.uasset" 281
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_5.uasset" 282
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_5_normal.uasset" 283
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBWallBricksH.uasset" 284
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Blueprints/HelpScreen.uasset" 285
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBRBasicDS.uasset" 286
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_10.uasset" 287
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_10_normal.uasset" 288
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBDSWindow.uasset" 289
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGBigWindow.uasset" 290
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_4.uasset" 291
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_4_normal.uasset" 292
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBWallCaves.uasset" 293
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGCaves.uasset" 294
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBMAsonry0.uasset" 295
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGGrave.uasset" 296
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBWallBricksN.uasset" 297
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGHighAltar.uasset" 298
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBPlain.uasset" 299
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_1.uasset" 300
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBPlanGround.uasset" 301
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGHighPlan.uasset" 302
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/horos_modulC.uasset" 303
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBSingSIllum.uasset" 304
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/cahin.uasset" 305
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/cahin_normal.uasset" 306
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBDS_CoperChain.uasset" 307
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/horos_modul2.uasset" 308
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/horos_modul2_normal.uasset" 309
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBDS_CoperOrnament.uasset" 310
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGHoros.uasset" 311
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGLowAltar.uasset" 312
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_3.uasset" 313
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBPlanCave.uasset" 314
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGLowPlan.uasset" 315
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_6.uasset" 316
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/material_6_normal.uasset" 317
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBDSWoodCross.uasset" 318
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGPanel.uasset" 319
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGPole.uasset" 320
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/Roofing_Shingles_Variable.uasset" 321
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Textures/Roofing_Shingles_Variable_normal.uasset" 322
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBRoofing.uasset" 323
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGRoofs.uasset" 324
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGSmallWindow.uasset" 325
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGStairs.uasset" 326
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGStropila.uasset" 327
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/FrontColor.uasset" 328
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGTorch.uasset" 329
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Materials/PBDSWallThin.uasset" 330
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGWallsAltar.uasset" 331
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGWallsCenter.uasset" 332
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGWallsLeft.uasset" 333
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGWallsOuter.uasset" 334
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/Modules/UGWallsRight.uasset" 335
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/BasilicaUG.umap" 336
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/MainMenu_lvl_BuiltData.uasset" 337
+"D:/Works/3D Engine Apps/UnderGround Basilic/UGBasilic_UE4/Content/MainMenu_lvl.umap" 338
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 339
+"../../../Engine/Content/Maps/Entry.umap" 340
